@@ -1,0 +1,23 @@
+{
+  "name": "rickshaw",
+  "version": "0.1.0-e388ab6",
+  "description": "JavaScript toolkit for creating interactive real-time graphs.",
+  "keywords": [
+    "time series",
+    "visualization",
+    "d3"
+  ],
+  "homepage": "http://code.shutterstock.com/rickshaw/",
+  "author": {
+    "name": "Shutterstock",
+    "url": "http://code.shutterstock.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shutterstock/rickshaw.git"
+  },
+  "main": "./rickshaw.js",
+  "dependencies": {
+    "d3": ">2.9.1"
+  }
+}
