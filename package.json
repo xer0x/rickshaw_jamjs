@@ -1,6 +1,6 @@
 {
   "name": "rickshaw",
-  "version": "0.1.0-e388ab6",
+  "version": "0.1.1-e388ab6",
   "description": "JavaScript toolkit for creating interactive real-time graphs.",
   "keywords": [
     "time series",
