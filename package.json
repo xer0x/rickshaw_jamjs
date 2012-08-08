@@ -16,8 +16,12 @@
     "type": "git",
     "url": "https://github.com/shutterstock/rickshaw.git"
   },
-  "main": "index.js",
+  "main": "rickshaw.js",
   "dependencies": {
     "d3": ">2.9.1"
-  }
+  },
+	"shim": {
+		"deps": ["d3"],
+		"exports": "Rickshaw"
+	}
 }
